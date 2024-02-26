@@ -4,4 +4,4 @@
 - DrizzleORM
 - Clerk
 - TailwindCSS
-- FontAwesome
+- Zod
