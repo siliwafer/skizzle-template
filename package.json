@@ -26,6 +26,7 @@
 		"@typescript-eslint/eslint-plugin": "^6.0.0",
 		"@typescript-eslint/parser": "^6.0.0",
 		"autoprefixer": "^10.4.17",
+		"cssnano": "^6.0.5",
 		"drizzle-kit": "^0.20.14",
 		"drizzle-zod": "^0.5.1",
 		"eslint": "^8.56.0",
